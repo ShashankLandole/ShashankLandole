@@ -2,7 +2,7 @@
 - 👀 I’m interested in developement in Springboot
 - 🌱 I’m currently learning JAVA8
 - 💞️ I’m looking to collaborate on Springboot Application Developement 
-- - 📫 How to reach me  - slandole62@gmail.com
+- - 📫 How to reach me  - slandole82@gmail.com
 
 <!---
 ShashankLandole/ShashankLandole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
